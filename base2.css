@@ -1,0 +1,24 @@
+*{outline:none;}
+a{color:#000;font-weight:bold;text-decoration:none;}
+a:hover{color:#f0cf35;}
+a#processing{background-image:url(/jekyll-test/_site/img/processing-bam.png);height:42px;width:31px;}
+a#twitter{background-image:url(/jekyll-test/_site/img/twitter-bam.png);height:42px;width:61px;}
+a#deviantart{background-image:url(/jekyll-test/_site/img/deviantart-bam.png);height:42px;width:94px;}
+a#cghub{background-image:url(/jekyll-test/_site/img/cghub-bam.png);height:42px;width:33px;}
+a#cgsociety{background-image:url(/jekyll-test/_site/img/cgsociety-bam.png);height:42px;width:37px;}
+body{background-color:#fff;font:13px/1.5 Helvetica,Arial,'Liberation Sans',FreeSans,sans-serif;margin:99px 0px 42px 0px;text-align:center;}
+div#post-detail{font-size:1.17em;margin:auto;text-align:justify;width:666px;}
+div#post-detail h2{font-size:1.3em;text-align:center;}
+div#post-detail h3{font-size:1.1em;text-align:center;}
+h1{color:#000;display:block;font-size:9em;letter-spacing:-5px;line-height:1.1em;padding:0px;margin:0px;}
+h1 a:hover{color:#000;}
+h2{font-size:1.5em;}
+img{border:none;}
+span.displace{position:absolute;left:-4200px;}
+ul{list-style:none;margin-top:42px;padding-left:0;}
+ul a{font-size:2.7em;}
+ul#sites{margin-top:23px;}
+ul#sites a{display:inline-block;}
+ul#sites a:hover{background-position:0px 42px;}
+ul#sites li{display:inline;margin:0px 11px;}
+
